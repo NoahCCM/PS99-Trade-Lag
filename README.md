@@ -8,7 +8,7 @@
 
 
 **Coming Soon**: 
-  Spam trade entire server and server hop if no one accepts after 10s 
+  `Spam trade entire server and server hop if no one accepts after 10s 
 
   Auto-enter specific pet (put name in script) 
                  
@@ -16,4 +16,4 @@
                  
   **PREM** Auto-flex (execute in plaza, will trade everyone and attempt to lag a flex trade) 
                  
-  **PREM** Premium coming soon, DC coming soon as well
+  **PREM** Premium coming soon, DC coming soon as well`
